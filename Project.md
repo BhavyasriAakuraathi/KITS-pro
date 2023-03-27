@@ -350,7 +350,7 @@ Then Deployment will start and it will get success.
 
 ## Follow Snippets to create the same if you are not intrested in reading steps:
 ![](./Images/p1.png)
-![](./Images/codedeploy.png)
+![](./Images/codedeploy.PNG)
 ![](./images/p2.png)
 ![](./Images/p3.png)
 ![](./Images/p4.png)
